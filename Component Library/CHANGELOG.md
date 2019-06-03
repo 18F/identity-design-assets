@@ -6,7 +6,8 @@ All notable changes to the `/identity-design-sketch.sketch` will be documented i
 ### Added
 
 - Create a Sketch file labeled as `identity-design-sketch.sketch`
-- In the Sketch file, add `_Brand` page
-- In the Sketch file, add `_Typography` page
-- In the Sketch file, add `_Color` page
-- In the Sketch file, start creating symbols
+- Create `_Brand` page
+- Create `_Typography` page
+- Create `_Color` page
+- Create `Accordions` page
+- Start creating symbols
