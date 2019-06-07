@@ -5,6 +5,29 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [0.0.3] - 2019-06-07
+
+### Added
+
+- In `_Typography` page, added a note/section indicating which text styles that are not listed on [design.login.gov](https://design.login.gov/)
+  - Text style: Link
+  - Text style: Legend, e.g. `usa-legend` for Dates form field
+  - Text style: Label, e.g. Form Field - Dropdown label
+- Created `Code formatting` page and symbols for code block highlight and output
+- In `Form fields` page, create symbols:
+  - Text input and areas (multiline)
+  - Dates
+  - Dropdowns
+  - Radio buttons: Simple
+    - Unselected
+    - Selected
+    - Selected Focus
+    - Disabled
+- Icons:
+  - arrow-both.svg
+  - arrow-up-filled.svg
+  - arrow-down-filled.svg
+
 ## [0.0.2] - 2019-06-04
 
 ### Added
