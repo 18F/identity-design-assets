@@ -5,6 +5,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [0.0.4] - 2019-06-10
+
+### Added
+
+- Created `Borders` page and a symbol for default border line
+- In `Form fields` page:
+    - Added a symbol `Alternative Option 1 - Unselcted` for large (filled) radio button
+    - Added a symbol `Alternative Option 2 - Selected` for large (filled) radio button
+    - Note: Currently, the alternative radio buttons aren't listed on [design.login.gov](https://design.login.gov)
+
 ## [0.0.3] - 2019-06-07
 
 ### Added
