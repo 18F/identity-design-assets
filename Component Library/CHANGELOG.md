@@ -5,6 +5,32 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [0.0.5] - 2019-06-28
+
+### Added
+
+- In `_Color` page
+    - `info` palette
+    - `error` palette
+    - `other` palette
+    - `primary-lighter` / light blue to primary palette and Appearance layer style
+- In `Form fields` page
+    - Symbols for 'Normal Radio Buttons' — unselected, selected, selected focus and disabled)
+    - Symbols for 'Large Radio Buttons' — unselected, selected, selected focus and disabled)
+    - Symbols for 'Simple Checkboxes' - unchecked, checked, checked focus and disabled
+    - Symbols for 'Normal Checkboxes' - unchecked, checked, checked focus and disabled
+    - Symbols for 'Large Checkboxes' - unchecked, checked, checked focus and disabled
+    - Symbols for form validation errors — textarea multiline, dates, dropdown, and icon text
+- Text style for "Error message text."
+
+### Changed
+
+- In `_Color` page
+    - `info` palette to `accent-cool` / teal
+- In `Alerts` page
+    - element / alerts / info icon to `accent-cool` / teal
+    - element / alerts / other background to `primary-lighter` / light blue to reflect the updated design system
+
 ## [0.0.4] - 2019-06-10
 
 ### Added
