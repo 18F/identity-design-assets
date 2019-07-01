@@ -5,6 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [0.0.6] - 2019-07.01
+
+### Added
+
+- Symbol for `Password strength meters` component
+- Symbol for `Spinner` component
+- Symbols for `Tooltips` - icon, icon with tooltip, large tooltip, and positional tooltips 
+
 ## [0.0.5] - 2019-06-28
 
 ### Added
