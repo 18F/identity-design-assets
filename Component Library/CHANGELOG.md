@@ -11,7 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 - Symbol for `Password strength meters` component
 - Symbol for `Spinner` component
-- Symbols for `Tooltips` - icon, icon with tooltip, large tooltip, and positional tooltips 
+- Symbols for `Tooltips` - icon, icon with tooltip, large tooltip, and positioning tooltips 
 
 ## [0.0.5] - 2019-06-28
 
