@@ -5,6 +5,36 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [0.0.7] - 2019-12.10
+
+### Added
+
+- More tokens in `_Color` page to select from
+    - `base` palette: lightest-darkest tokens
+    - `primary` palette: darkest token
+    - `secondary` palette: lighter, lightest, and darkest tokens
+    - `accent cool` palette: lighter, light, and dark-darkest tokens
+    - `info` palette: lighter, dark, and darker tokens
+    - `error` palette: light, dark, and darker tokens
+    - `warning` palette: light, dark, and darker tokens
+    - `success` palette: light token
+    - `disabled` palette: light and dark tokens
+
+### Changed
+
+- `_Color` page to reflect the token additions
+    - Updated `ink` #5b616a to #454545 to increase contrast ratio 
+    - Renamed `secondary-light` / Pink - #fff0f3 token to `secondary-lightest` / Lightest Red - #fff0f3
+    - Renamed `accent-cool-light` / Light Teal - #ecfcff to `accent-cool-lightest` / Lightest Teal - #ecfcff
+    - Renamed `info-light` / Light Teal - #ecfcff to `info-lighter` / Lighter Info Teal - #ecfcff
+    - Renamed `error-light` / Pink - #fff0f3 to `error-lighter` / Lighter Error Red - #fff0f3
+    - Renamed `warning-light` / Light Yellow - #fffdd7 to `warning-lighter` / Lighter Warning Yellow - #fffdd7
+    - Renamed `success-lighter` / Light Green - #ebfcef to `success-lighter` / Lighter Success Green - #ebfcef
+    - Updated `success-dark` #116523 to #0e581e
+    - Renamed `other` / Light Blue - #ebf3fa to `other` / Other Blue - #ebf3fa
+    - Renamed `disabled` / Light Gray - #767676 to `disabled` / Disabled Grey - #767676
+
+
 ## [0.0.6] - 2019-07.01
 
 ### Added
