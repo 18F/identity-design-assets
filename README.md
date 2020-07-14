@@ -1,3 +1,3 @@
-# Identity design assets
+# Login.gov UX Asset Repository
 
-A place for the login.gov design team to version and store design assets (illustrations, sketch files, etc.) 
+A place for the login.gov User Experience (UX) Team to publicly version and store design assets.
