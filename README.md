@@ -3,7 +3,9 @@ A repository for the login.gov User Experience (UX) Team to publicly version, st
 
 ## About
 
-The repository uses the P.A.R.A (Projects, Areas, Resources, Archives) method for organizing and cataloging our files. Any files added to this repository are part of a final approach to a particular cross functional design problem login.gov is aiming to solve.
+The repository uses the P.A.R.A (Projects, Areas, Resources, Archives) method for organizing and cataloging our files. Any files added to this repository are part of a final approach to a particular cross functional design problem login.gov is aiming to solve. 
+
+File naming conventions - start each file with YYYY-MM-DD followed by Jira ticket (if available) and short description to help people scan and find information
 
 ### Projects
 
